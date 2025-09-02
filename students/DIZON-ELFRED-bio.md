@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year 
+- Section: G5
+- Favorite Language: Java
+- One Git Tip Learned: Use `git checkout -b branch-name` to create and switch to a new branch.
+- GitHub: @geeles123
